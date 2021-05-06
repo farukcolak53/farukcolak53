@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Faruk 👋
 
 I am studying at Marmara University, Computer Engineering.
 
