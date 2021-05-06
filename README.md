@@ -3,7 +3,6 @@
 I am studying at Marmara University, Computer Engineering.
 
 ![Faruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=farukcolak53&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukcolak53&layout=compact&theme=dracula)](https://github.com/farukcolak53/farukcolak53)
 
 
