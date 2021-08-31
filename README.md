@@ -1,6 +1,6 @@
 ### Hi there, I am Faruk 👋
 
-I am graduated from Marmara University, Computer Engineering.
+I am graduated from Marmara University, Computer Engineering in 2021.
 I am interested in Android mobile app development and currently I am working at OBSS.
 
 ![Faruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=farukcolak53&show_icons=true&theme=dracula)
